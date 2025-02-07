@@ -1,5 +1,5 @@
 # Machine-learning
-Analysis of genomic datasets with Tensorflow, PyTorch and scikit-learn.
+Analysis of genomic datasets with TensorFlow and PyTorch.
 
 The contents of the folders are as follows:
 
